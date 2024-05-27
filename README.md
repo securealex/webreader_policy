@@ -41,11 +41,6 @@
 </ul>
 <h2>Collecting and Using Your Personal Data</h2>
 <h3>Types of Data Collected</h3>
-<h4>Personal Data</h4>
-<p>While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:</p>
-<ul>
-<li>Usage Data</li>
-</ul>
 <h4>Usage Data</h4>
 <p>Usage Data is collected automatically when using the Service.</p>
 <p>Usage Data may include some general information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the time of usage of our Service, the time and date of Your visit, unique device identifiers and other diagnostic data.</p>
