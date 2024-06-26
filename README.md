@@ -43,7 +43,7 @@
 <h3>Types of Data Collected</h3>
 <h4>Usage Data</h4>
 <p>Usage Data is collected automatically when using the Service.</p>
-<p>Usage Data may include some general information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the time of usage of our Service, the time and date of Your visit, unique device identifiers and other diagnostic data.</p>
+<p>Usage Data may include some general information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the time of usage of our Service, the time and date of Your visit, unique device identifiers and other diagnostic data. Also your login email may be included. </p>
 <p>When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.</p>
 <p>We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.</p>
 <h3>Use of Your Personal Data</h3>
@@ -59,7 +59,7 @@
 <p><strong>For other purposes</strong>: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.</p>
 </li>
 </ul>
-<p>We may share Your personal information in the following situations:</p>
+<p>We may share Your usage information in the following situations:</p>
 <ul>
 <li><strong>With Service Providers:</strong> We may share Your personal information with Service Providers to monitor and analyze the use of our Service.</li>
 <li><strong>With Affiliates:</strong> We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.</li>
