@@ -1,0 +1,26 @@
+Usage:
+
+1. In the plugin's settings, choose your preferred voice.
+2. Adjust any other configurations as desired. 
+3. Open a YouTube video.
+4. Click the play button on the floating bar, or click the plugin icon to start playback.
+5. Open a web page, for example, a page on a news site.
+6. Click the play button on the floating bar to begin playing the audio.
+
+Q & A:
+
+Q: Can I choose voice other than my languge?
+
+A: Yes, you can choose a voice in any language. The option 'For My Language Only' restricts the voices to those available in your locale. By unchecking it, you can select a voice from other locales.
+
+Q: Why does it show 'network slow' error?
+
+A: Sometimes the playback shows that error because it encounters a network connection problem. It should be able to recover from it. You can also reload the page to reset the browser.
+
+Q: When do I need to change the voice cache length?
+
+A: If you frequently encounter the "network slow" error, you may consider increasing the cache length. Additionally, if you feel the speaking is not natural due to the splitting of long sentences, you may also want to increase the cache length (e.g., from 'Short' to 'Normal').
+
+Q: Why does the message "cannot read web page" appear?
+
+A: Certain websites may restrict the injection of audio onto their pages, such as techcrunch.com. However, the majority of websites do not impose such limitations. We are committed to developing solutions based on user feedback and needs to address these issues.
