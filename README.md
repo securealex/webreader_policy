@@ -42,8 +42,8 @@
 <p>Usage Data is collected automatically when using the Service.</p>
 <p>Usage Data may include some general information such as Your Device's Internet Protocol address (e.g. IP address), browser type, the time of usage of our Service, the time and date of Your visit, unique device identifiers and other diagnostic data.</p>
 <p>When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.</p>
-<p>We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.</p>
 <h4>Information Collected via Cookies and Similar Technologies</h4> 
+<p>We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.</p>
 <p>To provide our services, ReadIt.cloud may store, access, or collect information directly or indirectly from users’ devices or browsers, including through the use of cookies or similar technologies (or allows third parties to do so on our behalf). These technologies help us identify you and understand how you interact with our service, improve performance, and personalize your experience.</p> 
 <h4>third-party service usages</h4>
 <p>In using Google APIs, including the YouTube Data API, to carry out certain functionalities, you acknowledge and agree that your use of our service is also subject to compliance with the <a href="https://www.youtube.com/t/terms">YouTube Terms of Service</a> and the <a href="http://www.google.com/policies/privacy">Google Privacy Policy. </p>
