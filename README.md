@@ -1,5 +1,5 @@
 <h1>Privacy Policy</h1>
-<p>Last updated: Oct 27, 2024</p>
+<p>Last updated: Jul, 17, 2025</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the chrome extension "YouTube Subtitle and Web Page Reader" and associated service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. 
 <h2>Interpretation and Definitions</h2>
@@ -46,6 +46,9 @@
 <p>Usage Data may include some general information such as Your Device's Internet Protocol address (e.g. IP address), browser type, the time of usage of our Service, the time and date of Your visit, unique device identifiers and other diagnostic data.</p>
 <p>When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.</p>
 <p>We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.</p>
+<h3>Information Collected via Cookies and Similar Technologies</h3> 
+<p>To provide our services, ReadIt.cloud may store, access, or collect information directly or indirectly from users’ devices, including through the use of cookies or similar technologies. These technologies help us understand how you interact with our service, improve performance, and personalize your experience.</p> 
+<p>We may also allow third parties (such as analytics providers or advertising partners) to collect information on our behalf using these technologies. You can manage your cookie preferences through your browser settings.</p>
 <h3>Use of Your Personal Data</h3>
 <p>The Company may use Personal Data for the following purposes:</p>
 <ul>
@@ -98,6 +101,7 @@
 <h2>Children's Privacy</h2>
 <p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>
 <p>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.</p>
+<h2>Use of YouTube API Services</h2> <p>This application uses the YouTube API Services provided by Google. By using ReadIt.cloud, you agree to be bound by the <a href="https://www.youtube.com/t/terms" target="_blank">YouTube Terms of Service</a>. For more information about how YouTube collects and processes data, please review the <a href="http://www.google.com/policies/privacy/" target="_blank">Google Privacy Policy</a>.</p>
 <h2>Links to Other Websites</h2>
 <p>Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.</p>
 <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
