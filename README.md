@@ -45,7 +45,7 @@
 <h4>Information Collected via Cookies and Similar Technologies</h4> 
 <p>We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.</p>
 <p>To provide our services, ReadIt.cloud may store, access, or collect information directly or indirectly from users’ devices or browsers, including through the use of cookies or similar technologies (or allows third parties to do so on our behalf). These technologies help us identify you and understand how you interact with our service, improve performance, and personalize your experience.</p> 
-<h4>third-party service usages</h4>
+<h4>Third-party service usages</h4>
 <p>In using Google APIs, including the YouTube Data API, to carry out certain functionalities, you acknowledge and agree that your use of our service is also subject to compliance with the <a href="https://www.youtube.com/t/terms">YouTube Terms of Service</a> and the <a href="http://www.google.com/policies/privacy">Google Privacy Policy. </p>
 <h3>Use of Your Personal Data</h3>
 <p>The Company may use Personal Data for the following purposes:</p>
@@ -80,6 +80,7 @@
 <p>You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.</p>
 <p>Our Service may give You the ability to delete certain information about You from within the Service.</p>
 <p>You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.</p>
+<p>You can always revoke that extension's access to your Google and Youtube account via the Google security settings page at https://security.google.com/settings/security/permissions, so any data permissions associated with Google OAuth will be revoked.</p>
 <p>Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.</p>
 <h3>Disclosure of Your Personal Data</h3>
 <h4>Business Transactions</h4>
