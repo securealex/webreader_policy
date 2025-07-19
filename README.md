@@ -96,8 +96,8 @@
 <h2 id="use-google">Use of Third-Party Services</h2>
 <p>Our service integrates with third-party services, including Google services such as the YouTube API. In using Google APIs, including the YouTube Data API, to carry out certain functionalities, you acknowledge and agree that your use of our service is also subject to compliance with:</p>
 <ul>
-<li><a href="https://developers.google.com/youtube/terms">YouTube Terms of Service</a></li>
-<li><a href="https://policies.google.com/privacy">Google Privacy Policy</a></li>
+<li>YouTube Terms of Service at <a href="https://www.youtube.com/t/terms">https://www.youtube.com/t/terms</a></li>
+<li>Google Privacy Policy at <a href="http://www.google.com/policies/privacy">http://www.google.com/policies/privacy</a></li>
 </ul>
 <h2>Children's Privacy</h2>
 <p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>
